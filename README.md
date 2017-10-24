@@ -12,7 +12,7 @@ A better interpreter for barebones.
       ```
          var a;
          a = (5.2+1.3)/3.5;
-         ```
+      ```
   * *printing* variables or *expressions*:
       ```
          print a;
@@ -29,4 +29,7 @@ A better interpreter for barebones.
      not (!=), equals (==), less (<), less_equals (<=), greater (>), great_equals (>=), or (||), and (&&)
      ```
   * *true* and *false* constants;
-    
+  
+  
+## Current problems:
+ * incr, decr and clear are not working rn (they seem pointless because of the expressions);
