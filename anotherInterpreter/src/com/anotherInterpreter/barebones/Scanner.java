@@ -34,9 +34,9 @@ class Scanner {
         keywords.put("not", BANG_EQUAL);
         keywords.put("equals", EQUAL_EQUAL);
         keywords.put("less", LESS);
-        keywords.put("les_equals", LESS_EQUAL);
+        keywords.put("less_equals", LESS_EQUAL);
         keywords.put("greater", GREATER);
-        keywords.put("gre_equals", GREATER_EQUAL);
+        keywords.put("great_equals", GREATER_EQUAL);
         keywords.put("incr", INCR);
         keywords.put("decr", DECR);
     }
